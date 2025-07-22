@@ -2,13 +2,17 @@
 
 This project showcases housing price prediction using a **synthesized version** of the original Kaggle dataset. Expanded from 30K to 260K rows via **SMOTE** and **Stresser**, it provides a rich foundation for exploring various regression models. The included Python notebook walks through data preprocessing, feature engineering, and model evaluation to identify the best-performing approach.
 
+## 📂 Dataset Access
+
+The training and test sets used in this project are available from the original competition repository:
+
+🔗 [Russian Housing Price Prediction Competition Dataset](https://www.kaggle.com/competitions/iml-fall-2024-challenge-2/data)
 
 # Russian House Price Prediction
 
 A detailed analysis of the models and feature preprocessing steps used for predicting house prices in Russia.
 
 ---
-
 ## Table of Contents
 1. [Model Evaluations](#model-evaluations)
     - [Linear Regression](#linear-regression)
