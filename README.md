@@ -8,7 +8,7 @@ The training and test sets used in this project are available from the original 
 
 🔗 [Russian Housing Price Prediction Competition Dataset](https://www.kaggle.com/competitions/iml-fall-2024-challenge-2/data)
 
-# Russian House Price Prediction
+# Analysis of Models
 
 A detailed analysis of the models and feature preprocessing steps used for predicting house prices in Russia.
 
